@@ -1,0 +1,12 @@
+#
+
+# note work
+
+#EXTM3U 
+#EXTINF:-1 , OnlyHit Japan
+https://ais-sa3.cdnstream1.com/2629_128.mp3
+
+#EXTINF:-1,J-Pop Sakura - asia DREAM radio
+https://cast1.torontocast.com:2170/;
+#EXTINF:-1,asia DREAM radio - Japan Hits
+https://cast1.torontocast.com:2120/;
